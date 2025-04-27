@@ -13,3 +13,14 @@ amzdigital-a.akamaihd.net
 amzdigitaldownloads.edgesuite.net
 softwareupdates.amazon.com
 updates.amazon.com
+
+cloudfront.prod.ota-cloudfront.net
+d3a510xmpll7o6.cloudfront.net
+d63r8xi1zu867.cloudfront.net
+d3p8zr0ffa9t17.cloudfront.net
+d2n99fpfeqbnhk.cloudfront.net
+d3uf8d0lloeluq.cloudfront.net
+d21m0ezw6fosyw.cloudfront.net
+d3h5bk8iotgjvw.cloudfront.net
+remoteconfig-na.amazon.com
+n4h9utzk4f.execute-api.us-east-1.amazonaws.com
